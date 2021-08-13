@@ -2,9 +2,9 @@ const CONFIG = {
     introTitle: 'Babe à!',
     introDesc: `Quà thất tịch cho em nha cô gái`,
     btnIntro: '<3
-    title: 'Trời đổ mưa em đã đổ anh chưa',
+    title: 'Tròi đổ mưa em đã đổ anh chưa',
     desc: 'Đồng ý thì làm ny anh còn không thì làm vợ anh :3 ',
-    btnYes: 'Vẫn cứ là thích anh <33',
+    btnYes: 'Vãn cứ là thích anh <33',
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
